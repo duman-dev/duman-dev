@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on: Building useful softwares and small projects.<br>Open to: Open source projects.<br>Learning: Python, Git CS, & ML.<br>Ask me about: Hardware, customization and python.<br>Fun fact: Coffee is part of my workflow.
+Working on: Building useful softwares and small projects.<br>Open to: Open source projects.<br>Learning: Python, Git, CS, & ML.<br>Ask me about: Hardware, customization and python.<br>Fun fact: Coffee is part of my workflow.
 
 
 ## 🌐 Socials:
