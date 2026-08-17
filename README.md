@@ -22,8 +22,8 @@
 ### 🌟 Open Source & PRs
 Active in the open-source community, contributing translations, fixes, and features:
 
-* 📄 **[Bazzite Linux](https://github.com/ublue-os/bazzite/blob/main/README-TR.md)** – Created and maintained full Turkish translation (`README-TR.md`).
-* 🤝 Open to contributing to system utilities, Linux customization, and developer tools.
+*  **[Bazzite Linux](https://github.com/ublue-os/bazzite/blob/main/README-TR.md)** – Created and maintained full Turkish translation (`README-TR.md`).
+*  Open to contributing to system utilities, Linux customization, and developer tools.
 
 ---
 
