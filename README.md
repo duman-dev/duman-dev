@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 *  **Building:** Practical & useful software that solves real-world challenges.
-*  **Learning:** Python, Software Engineering & Systems Architecture.
+*  **Learning:** Software Engineering & Systems Architecture.
 *  **Ask me about:** Linux, hardware, system customization & Python.
 *  **Fun fact:** Powered by coffee and terminal windows.
 
