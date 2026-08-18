@@ -2,10 +2,9 @@
 <p align="center">
   <b>Software Developer & Open Source Contributor</b>
 </p>
-
 <p align="center">
-  <a href="https://linktr.ee/dumandev">
-    <img src="https://img.shields.io/badge/Linktree-13DE64?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  <a href="https://linktr.ee/duman.dev">
+    <img src="https://img.shields.io/badge/Linktree-%23161b22.svg?style=for-the-badge&logo=linktree&logoColor=%2339E09B" alt="Linktree" />
   </a>
 </p>
 
